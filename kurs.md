@@ -7,6 +7,8 @@ Wir lernen zu programmieren um zu automatisieren - und lästige Aufgaben nicht m
 
 <iframe src="https://h5p.org/h5p/embed/617" width="545" height="337" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/32224" frameborder="0" allowfullscreen></iframe>
+
 In diesem Kurs entwickeln wir eine Wirtschaftssimulation und ein Adventure und finden dabei einen Einstieg in Datenstrukturen, Modellbildung und Programmierung. Das Ergebnis des ersten Teils/Halbjahres ist ein Programm das am PC in Eingabeaufforderung/Terminal läuft. Im zweiten Teil wird das gleiche Programm als App für Mobilgeräte umgesetzt nach dem Muster Model-View-Controller.
 
 ### Quiz
